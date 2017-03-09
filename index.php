@@ -17,6 +17,7 @@ echo "hello world!";
 <br />
 <br />
 <div id="menuHrefs">
+          <a  href="labs/MySiteDB.php" title="На главную"  id="logo">MysiteDb</a>
           <a  href="labs/exemples.php" title="На главную"  id="logo">Упражнений</a>
           <a  href="labs/blogs.html" title="На главную"  id="logo">Блоги</a>
           <a  href="labs/inform.html" title="На главную"  id="logo">Информации</a>
